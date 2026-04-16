@@ -6,17 +6,17 @@ function Contact() {
   <div className="contact-grid">
     <div className="contact-item">
       <span>📧</span>
-      <p>sadeghpour.s@gmail.com</p>
+      <p>sadeghpour.s[at]gmail.com</p>
     </div>
 
     <div className="contact-item">
       <span>💼</span>
-      <a href="#" target="_blank">LinkedIn Profile</a>
+      <a href="https://www.linkedin.com/in/sepideh-sadeghpour-343b3a41/" target="_blank">LinkedIn Profile</a>
     </div>
 
     <div className="contact-item">
       <span>💻</span>
-      <a href="#" target="_blank">GitHub</a>
+      <a href="https://github.com/sadeghpours" target="_blank">GitHub</a>
     </div>
 
     <div className="contact-item">
